@@ -4,7 +4,7 @@ The Pixel 7 line of phones from Google has the same hardware support as the prev
 
 
 ## Installation
-Just download the latest release on the [release page](placeholder) and install it the same way you would with other modules.
+Just download the latest release on the [release page](https://github.com/Puglover011/Pixel-7-32bit-KernelSU/releases/tag/Release) and install it the same way you would with other modules.
 
 ## How does it work?
 
