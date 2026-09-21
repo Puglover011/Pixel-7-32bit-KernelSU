@@ -1,0 +1,6 @@
+id=pixel7pro-32bit
+name=Pixel 7 Pro 32-bit Support
+version=1.0
+versionCode=1
+author=Puglover
+description=Enables the 32-bit zygote and ARM 32-bit ABI on Pixel 7 series
